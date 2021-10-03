@@ -2,6 +2,25 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Test04Application",
+            "request": "launch",
+            "mainClass": "com.example.test04.Test04Application"
+        },
+        {
+            "type": "java",
+            "name": "Launch Terst02Application",
+            "request": "launch",
+            "mainClass": "com.example.terst02.Terst02Application"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestApplication",
+            "request": "launch",
+            "mainClass": "com.example.test.TestApplication",
+            "projectName": ""
+        },
+        {
+            "type": "java",
             "name": "Spring Boot-DemoApplication<demo>",
             "request": "launch",
             "cwd": "${workspaceFolder}",
