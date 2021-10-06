@@ -29,5 +29,12 @@
   "bugs": {
     "url": "https://github.com/pratikborsadiya/vali-admin/issues"
   },
-  "homepage": "http://pratikborsadiya.in/blog/vali-admin"
+  "homepage": "http://pratikborsadiya.in/blog/vali-admin",
+  "main": "Gruntfile.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "pug": "^3.0.2"
+  }
 }
