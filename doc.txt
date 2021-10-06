@@ -1,0 +1,9 @@
+## npm build install setting use
+npm chache cleaan --force
+npm install 
+
+npm start
+
+2021.10.06
+npm install pug
+ 템플릿 언어, express 뷰 엔진
