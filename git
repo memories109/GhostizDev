@@ -1,0 +1,158 @@
+[33mcommit 6b2181c32adbfef251fc4773c58736c8cd35e3c0[m[33m ([m[1;36mHEAD -> [m[1;32mopen-css-setting[m[33m)[m
+Author: memories109 <memories109@gmail.com>
+Date:   Wed Oct 6 16:42:05 2021 +0900
+
+    save setting
+
+[33mcommit c3d8aa4bc9bcaae39481315b0e8c0559b81aee53[m
+Author: memories109 <memories109@gmail.com>
+Date:   Wed Oct 6 13:07:07 2021 +0900
+
+    css setting 03
+
+[33mcommit 33f7cc85f220718ee1d572b3284da1305a6876e7[m[33m ([m[1;31morigin/open-css-setting[m[33m)[m
+Author: memories109 <memories109@gmail.com>
+Date:   Wed Oct 6 11:37:09 2021 +0900
+
+    custom number 02
+
+[33mcommit 76391a4db3a5e05d579ed9045f234a2b37c83c2b[m
+Author: memories109 <memories109@gmail.com>
+Date:   Wed Oct 6 11:36:45 2021 +0900
+
+    css temple custom
+
+[33mcommit beb7555862fae04d9d37f87085471b5121d78c0e[m[33m ([m[1;32mmaster[m[33m)[m
+Merge: ada62bb 961cbef
+Author: Ghostiz <memories109@gmail.com>
+Date:   Tue Oct 5 11:18:54 2021 +0900
+
+    Merge pull request #8 from memories109/setting02
+    
+    Setting02
+
+[33mcommit 961cbef122696f9418a98b5651072a37a78caf4b[m[33m ([m[1;31morigin/setting02[m[33m)[m
+Author: memories109 <memories109@naver.com>
+Date:   Sun Oct 3 17:47:19 2021 +0900
+
+    demo02
+
+[33mcommit eaaf7379c4e2131df2e2a84fdb0c7b925bb98094[m
+Author: memories109 <memories109@naver.com>
+Date:   Sat Oct 2 12:38:43 2021 +0900
+
+    test
+
+[33mcommit ada62bb5b433f81c7eadb2efd423ce5a88f826b3[m
+Merge: 6dbdfc9 e5d21f0
+Author: Ghostiz <memories109@gmail.com>
+Date:   Fri Oct 1 17:51:03 2021 +0900
+
+    Merge pull request #7 from memories109/transfer03
+    
+    commit
+
+[33mcommit 6dbdfc926567dbe5c0fbbd04e64ebd20f6dc267b[m
+Merge: 0b14ea7 6d128ae
+Author: Ghostiz <memories109@gmail.com>
+Date:   Fri Oct 1 17:50:07 2021 +0900
+
+    Merge pull request #5 from memories109/transfer02
+    
+    Transfer02
+
+[33mcommit 0b14ea74406603ec2a2aab20620142dfc998a429[m
+Merge: 3f8b5cc 0947576
+Author: Ghostiz <memories109@gmail.com>
+Date:   Fri Oct 1 17:49:52 2021 +0900
+
+    Merge pull request #6 from memories109/servcer-controller
+    
+    Servcer controller
+
+[33mcommit e5d21f03bf99e9ac94665b68507a7130fa2a7205[m[33m ([m[1;31morigin/transfer03[m[33m)[m
+Author: memories109 <memories109@gmail.com>
+Date:   Fri Oct 1 17:45:41 2021 +0900
+
+    commit
+
+[33mcommit 6d128aea41b91063e8e04989a3a1f1f81322a367[m[33m ([m[1;31morigin/transfer02[m[33m)[m
+Author: memories109 <memories109@gmail.com>
+Date:   Fri Oct 1 17:37:19 2021 +0900
+
+    02202
+
+[33mcommit 0947576de8ed1ae63886add8f51eb3933a4f8e03[m[33m ([m[1;31morigin/servcer-controller[m[33m)[m
+Author: memories109 <memories109@gmail.com>
+Date:   Fri Oct 1 17:34:18 2021 +0900
+
+    cc
+
+[33mcommit 15a8dbb3599d4c6af585209da8fb81c78b290a02[m
+Author: memories109 <memories109@gmail.com>
+Date:   Fri Oct 1 17:33:49 2021 +0900
+
+    111
+
+[33mcommit 39252aa0259b97c152da974482ae7833e0692169[m
+Author: memories109 <memories109@gmail.com>
+Date:   Fri Oct 1 17:30:10 2021 +0900
+
+    upload
+
+[33mcommit 5ced6ee20a958d700510cb111d023e2dc138a161[m[33m ([m[1;31morigin/newStep01[m[33m)[m
+Author: memories109 <memories109@gmail.com>
+Date:   Fri Oct 1 17:27:51 2021 +0900
+
+    staging upload
+
+[33mcommit 3f8b5cc9af9c6102a3f3fc40c6918c8681ae4658[m
+Merge: 3b34268 79a262d
+Author: Ghostiz <memories109@gmail.com>
+Date:   Tue Sep 28 13:56:57 2021 +0900
+
+    Merge pull request #3 from memories109/lotto
+    
+    lotto game
+
+[33mcommit 79a262da775f86450315c3a8016fc33597f84e84[m[33m ([m[1;31morigin/lotto[m[33m)[m
+Author: memories109 <memories109@gmail.com>
+Date:   Tue Sep 28 13:52:22 2021 +0900
+
+    lotto game
+
+[33mcommit 3b34268bc545168309f4c64f5e49d2b99b76dcbe[m
+Merge: f8e9957 a306037
+Author: Ghostiz <memories109@gmail.com>
+Date:   Tue Sep 28 13:49:58 2021 +0900
+
+    Merge pull request #2 from memories109/Up&Down
+    
+    Up_Down Game
+
+[33mcommit a30603718fde7d6755b7362f0feabbb3a77a17cb[m[33m ([m[1;31morigin/Up&Down[m[33m)[m
+Author: memories109 <memories109@gmail.com>
+Date:   Tue Sep 28 13:47:40 2021 +0900
+
+    Up_Down Game
+
+[33mcommit f8e9957ef293dde492af99e27f5fc4f2afc7048c[m
+Merge: 67d0d82 c0fe7fa
+Author: Ghostiz <memories109@gmail.com>
+Date:   Tue Sep 28 13:08:18 2021 +0900
+
+    Merge pull request #1 from memories109/transfer
+    
+    messgae test
+
+[33mcommit c0fe7fa5a1ff64a88aaa76b480bb3d5e1e6cdc0f[m[33m ([m[1;31morigin/transfer[m[33m)[m
+Author: memories109 <memories109@gmail.com>
+Date:   Tue Sep 28 13:04:21 2021 +0900
+
+    messgae test
+
+[33mcommit 67d0d828fb20ee2a330fc04d87ec0ba2606ca9ba[m
+Author: memories109 <memories109@gmail.com>
+Date:   Tue Sep 28 10:59:22 2021 +0900
+
+    Add README.md

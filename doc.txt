@@ -1,3 +1,5 @@
+2021.10.05
+ nodejs setting init
 ## npm build install setting use
 npm chache cleaan --force
 npm install 
@@ -7,3 +9,35 @@ npm start
 2021.10.06
 npm install pug
  템플릿 언어, express 뷰 엔진
+
+React 개념 
+ SPA (Single Page Application) 
+  - 
+  # MPA (Multi Page Apptlication  != SPA)
+  React - Client Side Rendering 
+  Next js 
+   Server Side Rendering , Search Engine Optimization 사용을 위한 개발된 React FrameWork
+
+JSDoc 
+  JavaScript용 API 문서 생성기
+
+  참고 : https://okayoon.tistory.com/entry/JSDoc%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%84%9C-Javasript-%EB%AC%B8%EC%84%9C%ED%99%94%ED%95%B4%EB%B3%B4%EC%9E%90
+
+2021.10.07
+roadmap.sh
+  -- developer just do it study guide 
+
+git guide 
+ - git clone 원격 저장소 데이터 로컬로 저장 
+ - git push 원격저장소로 로컬 데이터 업로드 
+ - git commit 로컬 데이터 저장 
+ - git merge 합치지 
+  - add-color branch(업데이트된 데이터) -> master swich -> branch merge 진행 
+
+etc 
+ 이력 준비를 위한 포트폴리오 
+  toy project : 작은 단위의 프로젝트 개발 
+
+
+
+ 
