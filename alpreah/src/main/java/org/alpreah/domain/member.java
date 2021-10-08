@@ -3,18 +3,24 @@ package org.alpreah.domain;
 public class member {
 	private String m_id;
 	private String m_pw;
+<<<<<<< HEAD
 	private Integer seq;
 	
+=======
+>>>>>>> setting02
 	
 	public String getM_id() {
 		return m_id;
 	}
+<<<<<<< HEAD
 	public Integer getSeq() {
 		return seq;
 	}
 	public void setSeq(Integer seq) {
 		this.seq = seq;
 	}
+=======
+>>>>>>> setting02
 	public void setM_id(String m_id) {
 		this.m_id = m_id;
 	}
