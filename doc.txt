@@ -28,16 +28,51 @@ roadmap.sh
   -- developer just do it study guide 
 
 git guide 
- - git clone 원격 저장소 데이터 로컬로 저장 
- - git push 원격저장소로 로컬 데이터 업로드 
- - git commit 로컬 데이터 저장 
- - git merge 합치지 
-  - add-color branch(업데이트된 데이터) -> master swich -> branch merge 진행 
+
+ - git clone : remote data local dev download 
+ - git pull : local data remove upload and save  
+ - git commit : local data save
+ - git merge : brach master 병합 
+    - add-color branch(업데이트된 데이터) -> master swich -> branch merge 진행 
+ - git add : branch index 
+ - git branch : 프로젝트 단위별 그룹관리를 위함
+
+  
 
 etc 
- 이력 준비를 위한 포트폴리오 
-  toy project : 작은 단위의 프로젝트 개발 
+   toy project : 작은 단위의 프로젝트 개발 
 
-
-
+react feat redux 
+ - react status management library 
  
+Babel이란?
+자바스크립트 문법 확장해주는 도구
+아직 지원하지 않는 최신 문법을 정식 자바스크립트로 변환해준다.
+ :https://babeljs.io/repl#?browsers=defaults
+
+
+2021.10.12
+ES6 신규 기능
+arrows
+classes
+enhanced object literals
+template strings
+destructuring
+default + rest + spread
+let + const
+iterators + for..of
+generators
+unicode
+modules
+module loaders
+map + set + weakmap + weakset
+proxies
+symbols
+subclassable built-ins
+promises
+math + number + string + array + object APIs
+binary and octal literals
+reflect api
+tail calls
+
+#참고 문서 : https://itstory.tk/entry/JavaScript-ES6-%EB%AC%B8%EB%B2%95-%EC%A0%95%EB%A6%AC#arrows
